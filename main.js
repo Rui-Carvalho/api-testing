@@ -3,7 +3,7 @@ var superagent = require('superagent');
 var status = require('http-status');
 
 
-var server = 'http://bof.lan';
+var server = 'http://your-project.com';
  
 describe('test article API', function() {
 
